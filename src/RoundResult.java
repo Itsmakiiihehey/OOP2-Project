@@ -1,2 +1,1 @@
-public enum RoundResult {
-}
+enum RoundResult { PLAYER1_WIN, PLAYER2_WIN, TIE, QUIT }
